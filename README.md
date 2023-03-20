@@ -1,9 +1,11 @@
 # Not_A_Doorbell
-This is a project aimed to build a custom "HotKey" board or mini Keyboard, using the raspberry pi pico (rp2040), an old recyceld controller (can by replaced with a standart alps encoder) and a qmc firmware. The used switches are cherry MX and compatiblt options.  It also uses RGB leds for some sweet lighing effects. 
+This is a project aimed to build a custom "HotKey" board or mini Keyboard, using the raspberry pi pico (rp2040), an old recyceld controller (can by replaced with a standart alps encoder) and a qmc firmware. The used switches are cherry MX and compatiblt options.  It also uses RGB leds for some sweet lighing effects
+
+The Name of the Project was selected because an early render of the device looked somewhat like a Doorbell, mainly because i only renderd the Encoder but not the buttons. 
 
 # The Goal of the Project
 
-I had purched a old "Video schnittpult" second hand (Televela T701), to use the housing and some of the parts for a different Project. However, the very nice encoder (also nown as jog/shutter wheel) was not realy needte.
+I had purched a old "Video schnittpult" second hand (Televela T701), to use the housing and some of the parts for a different Project. However, the very nice encoder (also nown as jog/shutter wheel) was not realy needte. I howeve always whanted something to controll playing music with, so the idear was born to build my owen mini Keyboard.
 
 
 # PCB and Scematic
