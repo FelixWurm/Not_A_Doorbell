@@ -18,7 +18,8 @@ The pcb is designt in KiCad and manufacured by JLC PCB in china. THE CUURENT VER
 - a STL housing that could by 3d Printet as well as a keyplate is in development
 - there is a possibility for a CNC carved housung 
 
-#ToDo 
+# ToDo 
 - Fix the PCB
 - Create the software
-
+- Upload Pictures 
+- Create the STL Files for the case
