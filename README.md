@@ -7,7 +7,14 @@ The Name of the Project was selected because an early render of the device looke
 
 I had purched a old "Video schnittpult" second hand (Televela T701), to use the housing and some of the parts for a different Project. However, the very nice encoder (also nown as jog/shutter wheel) was not realy needte. I howeve always whanted something to controll playing music with, so the idear was born to build my owen mini Keyboard.
 
-
+#some tips:
+in oder tu use the full potential of the endoder when usung linux set I recomend chnaging the amount the Volume chnages pear rotation to one ore two. To du this (if you are on ubuntu ):
+- ``` gsettings get org.gnome.settings-daemon.plugins.media-keys volume-step ```
+ - to get the currently set value
+- ``` gsettings set org.gnome.settings-daemon.plugins.media-keys volume-step 1```
+ - to set it to one
+ 
+ 
 # PCB and Scematic
 
 The pcb is designt in KiCad and manufacured by JLC PCB in china. THE CUURENT VERSION OF THIS PCB HAS SOME ISSUES! the issues are:
